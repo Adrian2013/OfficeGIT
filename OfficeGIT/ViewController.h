@@ -12,6 +12,7 @@
 {
     
     NSString *strNAme;
+    NSString *strAddress;
 }
 
 
